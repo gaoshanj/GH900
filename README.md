@@ -1,11 +1,11 @@
 # GH-900 Reference
 :::success
-Date: 20251028
-Course ID: 89106
+Date: 20251110
+Course ID: 88162
 :::
 
 :::info
-Post Course Survey: [https://aka.ms/gh900survey](https://aka.ms/gh900survey)
+Post Course Survey: [https://aka.ms/gh900survey](https://www.metricsthatmatter.com/MTMStudent/(S(pxlzfxo5nnmlrvqslyip2ag5))/SurveyPage.aspx?&orig=7&StudentID=64602321&ClassID=-1&TimeOffset=-2&EventID=9756708&FormID=98921&sid=23545928&optout=True&LanguageID=1&anonymous=True&rtyp=1&oid=79335&Preview=False&ft=-1&manual=0)
 :::
 
 ## Course Materials
@@ -17,15 +17,7 @@ Post Course Survey: [https://aka.ms/gh900survey](https://aka.ms/gh900survey)
 [Learner Experience Portal](https://esi.microsoft.com/)
 [ESI Support](https://aka.ms/esisupport)
 
-&lt;!--
-## Lab
-### Skillable lab system
-[ESI Labs](https://aka.ms/esilab)
-&gt; Training key: 4054FE03B45845DA
-&gt; &gt; Only need to redeem once
-&gt; &gt; Valid for 6 months
 
-&gt; Github CoPilot license provision may take between 10 and 40 minutes from the time of VM launch.
 
 ### Instruction
 [GH-900 Labs EN](https://microsoftlearning.github.io/GH-900-Accelerate-app-development-by-using-GitHub-Copilot/)
@@ -35,16 +27,9 @@ Post Course Survey: [https://aka.ms/gh900survey](https://aka.ms/gh900survey)
 ## Course Info
 ![01](https://mdcontent.yu.money/contents/c87a6d86cb5a5e3b8e61e3702.png)
 
-
-
-
-
-
-&lt;!--
 ![02](https://mdcontent.yu.money/contents/c87a6d86cb5a5e3b8e61e3703.png)
 
 ![03](https://mdcontent.yu.money/contents/c87a6d86cb5a5e3b8e61e3704.png)
---&gt;
 
 
 ## Links
@@ -70,7 +55,6 @@ Post Course Survey: [https://aka.ms/gh900survey](https://aka.ms/gh900survey)
 
 [VSCode - Introducing auto model selection (preview)](https://code.visualstudio.com/blogs/2025/09/15/autoModelSelection)
 
-&lt;!--
 ### Introduction to Git
 [What is version control?](https://learn.microsoft.com/en-us/devops/develop/git/what-is-version-control)
 
@@ -95,7 +79,6 @@ Post Course Survey: [https://aka.ms/gh900survey](https://aka.ms/gh900survey)
 [GitHub Copilot Workspace](https://copilot-workspace.githubnext.com/)
 
 [GitHub Copilot Workspace Demo | Transform issues into plans](https://www.youtube.com/watch?v=L5Xny6yehUg)
---&gt;
 
 ## Exercises
 - 01. [Exercise - Try out Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/2-exercise-configure-git)
@@ -111,8 +94,7 @@ Post Course Survey: [https://aka.ms/gh900survey](https://aka.ms/gh900survey)
 - 15. [Exercise - Connect the dots in a GitHub repository](https://learn.microsoft.com/en-us/training/modules/search-organize-repository-history-github/3-connect-dots)
 - 16. [Exercise - Update a Python web API with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/5-exercise-python-web-api)
 
-## Demo GitHub
-[GitHub: MoneyDemo](https://github.com/MoneyDemo)
+
 
 ## Exam
 [GH-900 Exam Page](https://learn.microsoft.com/en-us/credentials/certifications/github-foundations/)
@@ -124,9 +106,4 @@ Post Course Survey: [https://aka.ms/gh900survey](https://aka.ms/gh900survey)
 [Microsoft Exam FAQ](https://docs.microsoft.com/en-us/learn/certifications/online-exams)
 [Renew your Microsoft Certifications for free. Stay Microsoft Certified!](https://aka.ms/RenewYourCertVideo)
 [Microsoft Learn for all role-based Microsoft Certification exams](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/introducing-a-new-resource-for-all-role-based-microsoft/ba-p/3500870?WT.mc_id=general_Twitter-wwl)
-&lt;!--[](https://aka.ms/LxPExamDiscountVideo)--&gt;
-
-
-![exam](https://mdcontent.yu.money/contents/31b5b0d6ee886b9be732c5f03.png)
-
-SVG: [exam.svg](https://mttcontent.yu.money/common/exam.svg)
+&lt;!--[](https://aka.ms/LxPExamDiscountVideo)
